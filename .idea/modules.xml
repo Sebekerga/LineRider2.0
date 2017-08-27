@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LineRider20.iml" filepath="$PROJECT_DIR$/LineRider20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenCV 3.3.0/OpenCV 3.3.0.iml" filepath="$PROJECT_DIR$/OpenCV 3.3.0/OpenCV 3.3.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
